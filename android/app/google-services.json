@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087466592902",
+    "project_id": "coach-ae79a",
+    "storage_bucket": "coach-ae79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087466592902:android:8e6483079468f745774f07",
+        "android_client_info": {
+          "package_name": "com.reactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw20OsGOJRj8OPkBg565mECNLUYF1wb-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
